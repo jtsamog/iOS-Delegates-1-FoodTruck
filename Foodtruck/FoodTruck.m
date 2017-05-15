@@ -39,7 +39,7 @@
 }
 
 -(void)cashOut {
-    NSLog(@"%@ earned %0.2f today!", self.name, self.earnings);
+    NSLog(@"%@ You have earned %0.2f today!", self.name, self.earnings);
 }
 
 @end

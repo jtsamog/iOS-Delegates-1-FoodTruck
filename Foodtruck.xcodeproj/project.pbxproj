@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		30BC5ED41EC2B31100785C7A /* Cook.m in Sources */ = {isa = PBXBuildFile; fileRef = 30BC5ED31EC2B31100785C7A /* Cook.m */; };
+		30BC5ED71EC2B32800785C7A /* NewCook.m in Sources */ = {isa = PBXBuildFile; fileRef = 30BC5ED61EC2B32800785C7A /* NewCook.m */; };
 		8BF87F6E1CDB2B21001943DE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BF87F6D1CDB2B21001943DE /* main.m */; };
 		8BF87F761CDB2B34001943DE /* FoodTruck.m in Sources */ = {isa = PBXBuildFile; fileRef = 8BF87F751CDB2B34001943DE /* FoodTruck.m */; };
 /* End PBXBuildFile section */
@@ -24,6 +26,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		30BC5ED21EC2B31100785C7A /* Cook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Cook.h; sourceTree = "<group>"; };
+		30BC5ED31EC2B31100785C7A /* Cook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Cook.m; sourceTree = "<group>"; };
+		30BC5ED51EC2B32800785C7A /* NewCook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewCook.h; sourceTree = "<group>"; };
+		30BC5ED61EC2B32800785C7A /* NewCook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewCook.m; sourceTree = "<group>"; };
 		8BF87F6A1CDB2B21001943DE /* Foodtruck */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Foodtruck; sourceTree = BUILT_PRODUCTS_DIR; };
 		8BF87F6D1CDB2B21001943DE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		8BF87F741CDB2B34001943DE /* FoodTruck.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FoodTruck.h; sourceTree = "<group>"; };
@@ -61,6 +67,10 @@
 			isa = PBXGroup;
 			children = (
 				8BF87F6D1CDB2B21001943DE /* main.m */,
+				30BC5ED51EC2B32800785C7A /* NewCook.h */,
+				30BC5ED61EC2B32800785C7A /* NewCook.m */,
+				30BC5ED21EC2B31100785C7A /* Cook.h */,
+				30BC5ED31EC2B31100785C7A /* Cook.m */,
 				8BF87F741CDB2B34001943DE /* FoodTruck.h */,
 				8BF87F751CDB2B34001943DE /* FoodTruck.m */,
 			);
@@ -125,6 +135,8 @@
 			files = (
 				8BF87F6E1CDB2B21001943DE /* main.m in Sources */,
 				8BF87F761CDB2B34001943DE /* FoodTruck.m in Sources */,
+				30BC5ED71EC2B32800785C7A /* NewCook.m in Sources */,
+				30BC5ED41EC2B31100785C7A /* Cook.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,6 +257,7 @@
 				8BF87F731CDB2B21001943DE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

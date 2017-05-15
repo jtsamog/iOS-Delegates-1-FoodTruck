@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8BE981C6499939754157300F53F8234D678AE062",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8BE981C6499939754157300F53F8234D678AE062" : 9223372036854775807,
+    "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "64F96E3F-3645-4685-83F5-03BBBC46EACF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8BE981C6499939754157300F53F8234D678AE062" : "FoodTruck\/",
+    "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Foodtruck",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Foodtruck.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jtsamog\/iOS-Delegates-1-FoodTruck.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8BE981C6499939754157300F53F8234D678AE062"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jtsamog\/Assignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9FE9A3046AEBD97DBC2AC7CB7537552D39AAF431"
+    }
+  ]
+}
